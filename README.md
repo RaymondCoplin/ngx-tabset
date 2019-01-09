@@ -1,6 +1,6 @@
 # Ngx-Tabset
 
-Project to enhance the knowloged about Templates, Template Refs, ng-container, ngTemplateOutlet, ContentChildren, etc. ??
+Project to enhance the knowloged about Templates, Template Refs, ng-container, ngTemplateOutlet, ContentChildren, etc. 📝
 
 ## Demo
 
