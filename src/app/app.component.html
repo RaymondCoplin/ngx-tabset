@@ -1,13 +1,13 @@
 <tab-panel>
-	<tab title="Login" [context]="{$implicit: 'Name default', name: 'Raymond Coplin'}">
+	<tab title="Login" [context]="{$implicit: 'Default name', name: 'Raymond Coplin'}">
 		<ng-template let-name="name">
-			<span>Titulo: {{ name }}</span> <br />
-			<span>Este es el contenido del Tab de Login</span>
+			<span>Name: {{ name }}</span> <br />
+			<span>Login Tab</span>
 		</ng-template>
 	</tab>
 	<tab title="Register">
 		<ng-template>
-			<span>Tab de registro</span>
+			<span>Register Tab</span>
 		</ng-template>
 	</tab>
 </tab-panel>
