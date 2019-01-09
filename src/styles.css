@@ -1,0 +1,25 @@
+/* Add application styles & imports to this file! */
+
+tab-panel {
+  height: 500px;
+}
+
+tab-panel button {
+  border: black solid 2px;
+  border-radius: 10px;
+  margin-right: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  background: gray;
+  height: 40px;
+  width: 100px;
+}
+
+tab-panel .container {
+  height: 200px;
+  background-color: gray;
+  margin-top: 10px;
+  border: black solid 2px;
+  border-radius: 10px;
+  padding: 15px;
+}
